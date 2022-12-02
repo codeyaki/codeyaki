@@ -25,7 +25,12 @@
   ![image](https://user-images.githubusercontent.com/96860725/205265659-1307d033-fc03-4f7b-b146-07c990a3dd5c.png)
 </details>
 
+## github stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=5onchangwoo&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## 📝 **Used Tool & Skill**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5onchangwoo&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 **Tool**  
 <img src="https://img.shields.io/badge/github-181717?style=round-square&logo=github&logoColor=white">
