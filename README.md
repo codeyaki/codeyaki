@@ -20,6 +20,7 @@ scw9410@gmail.com <a href="mailto:scw9410@gmail.com"><img src="https://img.shiel
 `2019` ICT PYTHON 취득  
 <details>
   <summary> <code>2019</code> 교내 공학경진대회 은상</summary>
+  
   ![image](https://user-images.githubusercontent.com/96860725/205265659-1307d033-fc03-4f7b-b146-07c990a3dd5c.png)
 </details>
 
