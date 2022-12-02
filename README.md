@@ -5,25 +5,21 @@
 즐겁게 개발하고 싶은 손창우 입니다."
 
 협업을 위해 배려하며, 성장하기 위해 노력합니다.
+
 ### Contact Me
 scw9410@gmail.com <a href="mailto:scw9410@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=round-square&logo=Gmail&logoColor=white&link=mailto:scw9410@gmail.com"/></a>
 
 
 ## **🎓 Education**
-
-`2013` 한성대학교 전자정보공학과 입학
-
-`2022.6 ~ 2022.12` 메타버스 아카데미 (네트워크 - 백엔드 과정) 수료
+`2013` 한성대학교 전자정보공학과 입학  
+`2022.6 ~ 2022.12` 메타버스 아카데미 (네트워크 - 백엔드 과정) 수료  
+`2022.11.16  ~ 2022.11.18` Architecting on AWS 이수  
 
 ## 🧾Certificate & Prize Contest
-
-`2019` 정보처리기사 취득
-
-`2019` ICT PYTHON 취득\
-
+`2019` 정보처리기사 취득  
+`2019` ICT PYTHON 취득  
 <details>
   <summary> <code>2019</code> 교내 공학경진대회 은상</summary>
-
   ![image](https://user-images.githubusercontent.com/96860725/205265659-1307d033-fc03-4f7b-b146-07c990a3dd5c.png)
 </details>
 
