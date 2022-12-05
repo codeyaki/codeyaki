@@ -9,21 +9,6 @@
 ### Contact Me
 scw9410@gmail.com <a href="mailto:scw9410@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=round-square&logo=Gmail&logoColor=white&link=mailto:scw9410@gmail.com"/></a>
 
-
-## **🎓 Education**
-`2013` 한성대학교 전자정보공학과 입학  
-`2022.6 ~ 2022.12` 메타버스 아카데미 (네트워크 - 백엔드 과정) 수료  
-`2022.11.16  ~ 2022.11.18` Architecting on AWS 이수  
-
-## 🧾Certificate & Prize Contest
-`2019` 정보처리기사 취득  
-`2019` ICT PYTHON 취득  
-<details>
-  <summary> <code>2019</code> 교내 공학경진대회 은상</summary>
-  
-  ![image](https://user-images.githubusercontent.com/96860725/205265659-1307d033-fc03-4f7b-b146-07c990a3dd5c.png)
-</details>
-
 ## github stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=5onchangwoo&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -45,3 +30,4 @@ scw9410@gmail.com <a href="mailto:scw9410@gmail.com"><img src="https://img.shiel
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=round-square&logo=PostgreSQL&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=round-square&logo=React&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=round-square&logo=Node.js&logoColor=white">
+
