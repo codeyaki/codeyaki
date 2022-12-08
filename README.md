@@ -7,8 +7,9 @@
 협업을 위해 배려하며, 성장하기 위해 노력합니다.
 
 ### Contact Me
-<a href="mailto:scw9410@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=round-square&logo=Gmail&logoColor=white&link=mailto:scw9410@gmail.com"/></a> scw9410@gmail.com  
-<a href="https://sonchangwoo.notion.site/46dd2e47855140cd988c4da05cb4ccfc"><img src="https://img.shields.io/badge/Notion-000000?style=round-square&logo=Notion&logoColor=white&link=mailto:scw9410@gmail.com"/></a> 노션 포트폴리오 페이지 이동하기
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=round-square&logo=Gmail&logoColor=white"/> <a>scw9410@gmail.com</a>  
+<img src="https://img.shields.io/badge/Notion-000000?style=round-square&logo=Notion&logoColor=white"/> <a href="https://sonchangwoo.notion.site/46dd2e47855140cd988c4da05cb4ccfc">노션 포트폴리오 페이지 이동하기 </a>  
+<img src="https://img.shields.io/badge/Tistory-000000?style=round-square&logo=Tistory&logoColor=white"/> <a href="https://teching.tistory.com">블로그 이동하기</a>  
 
 ## github stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=5onchangwoo&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
