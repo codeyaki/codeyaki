@@ -19,17 +19,32 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5onchangwoo&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 **Tool**  
-<img src="https://img.shields.io/badge/github-181717?style=round-square&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/notion-000000?style=round-square&logo=Notion&logoColor=white">
-<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=round-square&logo=IntelliJ IDEA&logoColor=white">
-<img src="https://img.shields.io/badge/Slack-4A154B?style=round-square&logo=Slack&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=round-square&logo=github&logoColor=white"> 
+<img src="https://img.shields.io/badge/notion-000000?style=round-square&logo=Notion&logoColor=white"> 
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=round-square&logo=IntelliJ IDEA&logoColor=white"> 
+<img src="https://img.shields.io/badge/Slack-4A154B?style=round-square&logo=Slack&logoColor=white"> 
 
-**Skill**  
-<img src="https://img.shields.io/badge/JAVA-007396?style=round-square&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=round-square&logo=Spring Boot&logoColor=white">
-<img src="https://img.shields.io/badge/oracle-F80000?style=round-square&logo=oracle&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-4479A1?style=round-square&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=round-square&logo=PostgreSQL&logoColor=white">
-<img src="https://img.shields.io/badge/React-61DAFB?style=round-square&logo=React&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-339933?style=round-square&logo=Node.js&logoColor=white">
+**Skill**
+  
+Front-end: 
+<img src="https://img.shields.io/badge/React-61DAFB?style=round-square&logo=React&logoColor=white"> 
+  
+Back-end: 
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=round-square&logo=Spring Boot&logoColor=white"> 
+<img src="https://img.shields.io/badge/Node.js-339933?style=round-square&logo=Node.js&logoColor=white"> 
+  
+Database: 
+<img src="https://img.shields.io/badge/oracle-F80000?style=round-square&logo=oracle&logoColor=white"> 
+<img src="https://img.shields.io/badge/mysql-4479A1?style=round-square&logo=mysql&logoColor=white"> 
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=round-square&logo=PostgreSQL&logoColor=white"> 
+  
+Language: 
+<img src="https://img.shields.io/badge/JAVA-007396?style=round-square&logo=java&logoColor=white"> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=Python&logoColor=white"> 
+
+  
+
+
+
+
 
