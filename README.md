@@ -30,7 +30,7 @@ Front-end:
 <img src="https://img.shields.io/badge/React-61DAFB?style=round-square&logo=React&logoColor=white"> 
   
 Back-end: 
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=round-square&logo=Spring Boot&logoColor=white"> 
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=round-square&logo=Spring Boot&logoColor=white"> 
 <img src="https://img.shields.io/badge/Node.js-339933?style=round-square&logo=Node.js&logoColor=white"> 
   
 Database: 
