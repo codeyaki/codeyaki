@@ -8,7 +8,7 @@
 
 ### Contact Me
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=round-square&logo=Gmail&logoColor=white"/> <a>scw9410@gmail.com</a>  
-<img src="https://img.shields.io/badge/Notion-000000?style=round-square&logo=Notion&logoColor=white"/> <a href="sonchangwoo.notion.site">노션 포트폴리오 페이지 이동하기 </a>  
+<img src="https://img.shields.io/badge/Notion-000000?style=round-square&logo=Notion&logoColor=white"/> <a href="https://sonchangwoo.notion.site">노션 포트폴리오 페이지 이동하기 </a>  
 <img src="https://img.shields.io/badge/Tistory-000000?style=round-square&logo=Tistory&logoColor=white"/> <a href="https://teching.tistory.com">블로그 이동하기</a>  
 
 ## github stats
