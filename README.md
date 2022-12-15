@@ -6,7 +6,6 @@
 "안녕하세요👋  
 즐겁게 개발하고 싶은 손창우 입니다."
 
-
 협업을 위해 배려하며, 성장하기 위해 노력하고 있습니다.
 
 ### Contact Me
@@ -47,7 +46,7 @@ Language:
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=round-square&logo=JavaScript&logoColor=white"> 
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&descSize=100&section=footer" style="width:100%;">
 </div>
 
 
