@@ -4,7 +4,7 @@
 "안녕하세요👋
 즐겁게 개발하고 싶은 손창우 입니다."
 
-협업을 위해 배려하며, 성장하기 위해 노력합니다.
+협업을 위해 배려하며, 성장하기 위해 노력하고 있습니다.
 
 ### Contact Me
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=round-square&logo=Gmail&logoColor=white"/> <a>scw9410@gmail.com</a>  
