@@ -14,14 +14,15 @@
 <img src="https://img.shields.io/badge/Tistory-000000?style=round-square&logo=Tistory&logoColor=white"/> <a href="https://teching.tistory.com">블로그 이동하기</a>  
 
 ## github stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=5onchangwoo&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=5onchangwoo&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
 
 ## Algorithm Test
   ### BeakJoon
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=son99)](https://solved.ac/son99/)
 
 ## 📝 **Used Tool & Skill**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5onchangwoo&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5onchangwoo&%20Text%20Format&theme=tokyonight&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tool
 <img src="https://img.shields.io/badge/github-181717?style=round-square&logo=github&logoColor=white"> 
