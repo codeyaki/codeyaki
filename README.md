@@ -13,14 +13,19 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=round-square&logo=Notion&logoColor=white"/> <a href="https://sonchangwoo.notion.site">노션 포트폴리오 페이지 이동하기 </a>  
 <img src="https://img.shields.io/badge/Tistory-000000?style=round-square&logo=Tistory&logoColor=white"/> <a href="https://teching.tistory.com">블로그 이동하기</a>  
 
+<br/>
+  
 ## github stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=5onchangwoo&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
-
+<br/>
+  
 ## Algorithm Test
   ### BeakJoon
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=son99)](https://solved.ac/son99/)
 
+<br/>
+  
 ## 📝 **Used Tool & Skill**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5onchangwoo&%20Text%20Format&theme=tokyonight&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -29,9 +34,8 @@
 <img src="https://img.shields.io/badge/notion-000000?style=round-square&logo=Notion&logoColor=white"> 
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=round-square&logo=IntelliJ IDEA&logoColor=white"> 
 <img src="https://img.shields.io/badge/Slack-4A154B?style=round-square&logo=Slack&logoColor=white"> 
-
-### Skill
   
+### Skill
 Front-end: 
 <img src="https://img.shields.io/badge/React-61DAFB?style=round-square&logo=React&logoColor=white"> 
   
@@ -49,6 +53,8 @@ Language:
 <img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=Python&logoColor=white"> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=round-square&logo=JavaScript&logoColor=white"> 
 
+<br/>
+  
 ## Repository
   <p> 진행했던 프로젝트들의 레파지토리를 살펴보세요! </p>  
   <p>
