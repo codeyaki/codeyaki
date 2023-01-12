@@ -49,7 +49,15 @@ Language:
 <img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=Python&logoColor=white"> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=round-square&logo=JavaScript&logoColor=white"> 
 
+### Repository
+  <p> 진행했던 프로젝트들의 레파지토리를 살펴보세요! </p>  
+  <p>
+    <a href="https://github.com/mtvs-6man/roomus-application-server">1. 메타버스를 활용한 가상 인테리어 서비스 (RoomUS)</a><br/>
+    <a href="https://github.com/MTVS-MyLittleTales/mlt-network">2. AI를 활용한 자신만의 4컷 동화 만들기 서비스 (My little Tales)</a><br/>
+    <a href="https://github.com/orgs/mtvsteampheonix/repositories">3. IT 인재들의 채용서비스 중개 서비스 (INIT)</a><br/>
+  </p>
 
+  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&descSize=100&section=footer" style="width:100%;">
 </div>
 
