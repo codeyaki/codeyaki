@@ -49,7 +49,7 @@ Language:
 <img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=Python&logoColor=white"> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=round-square&logo=JavaScript&logoColor=white"> 
 
-### Repository
+## Repository
   <p> 진행했던 프로젝트들의 레파지토리를 살펴보세요! </p>  
   <p>
     <a href="https://github.com/mtvs-6man/roomus-application-server">1. 메타버스를 활용한 가상 인테리어 서비스 (RoomUS)</a><br/>
