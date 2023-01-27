@@ -17,11 +17,13 @@
   
 ## Repository
   <p> 진행했던 프로젝트들의 레파지토리를 살펴보세요! </p>  
-  <p>
-    <a href="https://github.com/mtvs-6man/roomus-application-server">1. 메타버스를 활용한 가상 인테리어 서비스 (RoomUS)</a><br/>
-    <a href="https://github.com/MTVS-MyLittleTales/mlt-network">2. AI를 활용한 자신만의 4컷 동화 만들기 서비스 (My little Tales)</a><br/>
-    <a href="https://github.com/orgs/mtvsteampheonix/repositories">3. IT 인재들의 채용서비스 중개 서비스 (INIT)</a><br/>
-  </p>
+  
+  | 순번 | 프로젝트 이름 | 기간 | 설명 | 레파지토리 |
+  | --- | --- | --- | --- | --- |
+  | 1 | 22.7 ~ 22.10 | INIT | IT 인재들과 기업간 중개 서비스 | [바로가기](https://github.com/orgs/mtvsteampheonix/repositories) |
+  | 2 | 22.10 | My Little Tales | AI를 활용하여 자신만의 4컷 동화 제작 서비스 | [바로가기](https://github.com/MTVS-MyLittleTales/mlt-network) |
+  | 3 | 22.10 ~ 22.11 | RoomUS | 메타버스를 활용한 가상 인테리어 서비스 | [바로가기](https://github.com/mtvs-6man/roomus-application-server) |
+  | 4 | 22.12 ~ 진행중 | UMI | MBTI 기반 커뮤니티 서비스 | [바로가기](https://github.com/16ssss) |
 
  <br/>
   
