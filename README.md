@@ -17,12 +17,12 @@
 ## Repository
   <p> 진행했던 프로젝트들의 레파지토리를 살펴보세요! </p>  
   
-  | 순번 | 기간 | 프로젝트 이름 | 설명 | 레파지토리 |
-  | --- | --- | --- | --- | --- |
-  | 1 | 22.7 ~ 22.10 | INIT | IT 인재들과 기업간 중개 서비스 | [바로가기](https://github.com/orgs/mtvsteampheonix/repositories) |
-  | 2 | 22.10 | My Little Tales | AI를 활용하여 자신만의 4컷 동화 제작 서비스 | [바로가기](https://github.com/MTVS-MyLittleTales/mlt-network) |
-  | 3 | 22.10 ~ 22.11 | RoomUS | 메타버스를 활용한 가상 인테리어 서비스 | [바로가기](https://github.com/mtvs-6man/roomus-application-server) |
-  | 4 | 22.12 ~ 진행중 | UMI | MBTI 기반 커뮤니티 서비스 | [바로가기](https://github.com/16ssss) |
+  | 순번 | 기간 | 프로젝트 이름 | 설명 | 사용기술 스택 | 레파지토리 |
+  | --- | --- | --- | --- | --- | --- |
+  | 1 | 22.7 ~ 22.10 | INIT | IT 인재들과 기업간 중개 서비스 | Spring Boot, Oracle, MyBatis, React | [바로가기](https://github.com/orgs/mtvsteampheonix/repositories) |
+  | 2 | 22.10 | My Little Tales | AI를 활용하여 자신만의 4컷 동화 제작 서비스 | Spring Boot, Oracle, Mybatis, Thymeleaf | [바로가기](https://github.com/MTVS-MyLittleTales/mlt-network) |
+  | 3 | 22.10 ~ 22.11 | RoomUS | 메타버스를 활용한 가상 인테리어 서비스 | Spring Boot, PostgreSQL, JPA(Hibernate), AWS Cloud | [바로가기](https://github.com/mtvs-6man/roomus-application-server) |
+  | 4 | 22.12 ~ 진행중 | UMI | MBTI 기반 커뮤니티 서비스 | Spring Boot | [바로가기](https://github.com/16ssss) |
 
  <br/>
   
@@ -59,6 +59,8 @@ Database:
 <img src="https://img.shields.io/badge/oracle-F80000?style=round-square&logo=oracle&logoColor=white"> 
 <img src="https://img.shields.io/badge/mysql-4479A1?style=round-square&logo=mysql&logoColor=white"> 
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=round-square&logo=PostgreSQL&logoColor=white"> 
+
+Database Access
   
 Language: 
 <img src="https://img.shields.io/badge/JAVA-007396?style=round-square&logo=java&logoColor=white"> 
