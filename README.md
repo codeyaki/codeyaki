@@ -60,7 +60,11 @@ Database:
 <img src="https://img.shields.io/badge/mysql-4479A1?style=round-square&logo=mysql&logoColor=white"> 
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=round-square&logo=PostgreSQL&logoColor=white"> 
 
-Database Access
+Database Access:
+<img src="https://img.shields.io/badge/mybatis-212121?style=round-square&logo=Mybatis&logoColor=white">
+<img src="https://img.shields.io/badge/JPA(Hibernate)-59666C?style=round-square&logo=Hibernate&logoColor=white">
+
+
   
 Language: 
 <img src="https://img.shields.io/badge/JAVA-007396?style=round-square&logo=java&logoColor=white"> 
