@@ -17,7 +17,7 @@
 ## Repository
   <p> 진행했던 프로젝트들의 레파지토리를 살펴보세요! </p>  
   
-  | 순번 | 프로젝트 이름 | 기간 | 설명 | 레파지토리 |
+  | 순번 | 기간 | 프로젝트 이름 | 설명 | 레파지토리 |
   | --- | --- | --- | --- | --- |
   | 1 | 22.7 ~ 22.10 | INIT | IT 인재들과 기업간 중개 서비스 | [바로가기](https://github.com/orgs/mtvsteampheonix/repositories) |
   | 2 | 22.10 | My Little Tales | AI를 활용하여 자신만의 4컷 동화 제작 서비스 | [바로가기](https://github.com/MTVS-MyLittleTales/mlt-network) |
