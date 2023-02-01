@@ -64,7 +64,7 @@ Database:
 <img src="https://img.shields.io/badge/mysql-4479A1?style=round-square&logo=mysql&logoColor=white"> 
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=round-square&logo=PostgreSQL&logoColor=white"> 
 
-Database Access:
+Persistence API:
 <img src="https://img.shields.io/badge/mybatis-212121?style=round-square&logo=Mybatis&logoColor=white">
 <img src="https://img.shields.io/badge/JPA(Hibernate)-59666C?style=round-square&logo=Hibernate&logoColor=white">
 
