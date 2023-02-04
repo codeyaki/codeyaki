@@ -19,12 +19,10 @@
   
   | 기간 | 프로젝트 이름 | 설명 | 사용기술 | 레파지토리 |
   | --- | --- | --- | --- | --- |
-  | 22.12 <br/>~ ing | UMI | MBTI 기반 커뮤니티 서비스 | Spring Boot | [바로가기](https://github.com/16ssss) |
   | 22.10 <br/>~ 22.11 | RoomUS | 메타버스를 활용한 가상 인테리어 서비스 | Spring Boot, <br/>PostgreSQL, JPA(Hibernate),<br/> AWS Cloud | [바로가기](https://github.com/mtvs-6man/roomus-application-server) |
   | 22.10 | My Little Tales | AI를 활용하여 자신만의 4컷 동화 제작 서비스 | Spring Boot, <br/>Oracle, Mybatis, <br/>Thymeleaf | [바로가기](https://github.com/MTVS-MyLittleTales/mlt-network) |
   | 22.07 <br/>~ 22.10 | INIT | IT 인재들과 기업간 중개 서비스 | Spring Boot, <br/>Oracle, MyBatis, <br/>React | [바로가기](https://github.com/orgs/mtvsteampheonix/repositories) |
-
-
+<!--   | 22.12 <br/>~ ing | UMI | MBTI 기반 커뮤니티 서비스 | Spring Boot | [바로가기](https://github.com/16ssss) | -->
 
 
 
