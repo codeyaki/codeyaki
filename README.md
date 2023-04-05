@@ -2,10 +2,17 @@
 
 ## 꾸준함을 잃지 않으려고 노력합니다 :) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F5onchangwoo&count_bg=%2379C83D&title_bg=%23000000&icon=octopusdeploy.svg&icon_color=%2350B218&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-"반갑습니다👋  
-즐겁게 개발하고 싶은 손창우 입니다."
+[ 백엔드 주니어 개발자입니다. ]
+- Java 언어를 메인으로 사용하는 백엔드 주니어 개발자
 
-협업을 위해 배려하며, 성장하기 위해 노력하고 있습니다.
+[ 협업에 적극적인 주니어 개발자입니다. ]
+- 6개월간의 백엔드 교육에서 동료평가 투표 1위 득표 
+- 원활한 협업을 위한 notion, slack , github issue & milestone 등 구축
+
+[ 좋은 애플리케이션을 만드는 것에 집중하려 노력합니다.] 
+- 도메인 주도 설계 (DDD), 이벤트 스토밍 이해 노력
+- CQRS 패턴 활용 경험
+- 기술을 단순히 사용하기 보다 원리를 이해하기
 
 ### Contact Me
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=round-square&logo=Gmail&logoColor=white"/> <a>scw9410@gmail.com</a>  
