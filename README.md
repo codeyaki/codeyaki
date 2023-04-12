@@ -24,7 +24,7 @@
  <br/>
   
 ## Github stats
-[![5onchangwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=5onchangwoo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
+[![5onchangwoo's GitHub stats](https://github-readme-stats-5onchangwoo.vercel.app/api?username=5onchangwoo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=5onchangwoo&theme=java-dark&locale=ko&date_format=%5BY.%5Dn.j&background=45%2C4A12EB%2CEB5454&dates=EBEBEB&border=000000)](https://git.io/streak-stats)  
   
 <br/>
@@ -36,7 +36,7 @@
 <br/>
   
 ## 📝 **Used Tool & Skill**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5onchangwoo&%20Text%20Format&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-5onchangwoo.vercel.app/api/top-langs/?username=5onchangwoo&%20Text%20Format&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tool
 <img src="https://img.shields.io/badge/github-181717?style=round-square&logo=github&logoColor=white"> 
