@@ -39,7 +39,7 @@
   
 ## 📝 **Used Tool & Skill**   
 
-[![Top Langs](https://github-readme-stats-5onchangwoo.vercel.app/api/top-langs/?username=5onchangwoo&%20Text%20Format&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-5onchangwoo.vercel.app/api/top-langs/?username=5onchangwoo&%20Text%20Format&theme=tokyonight&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
   
 ### Tool
 <img src="https://img.shields.io/badge/github-181717?style=round-square&logo=github&logoColor=white"> 
