@@ -21,7 +21,9 @@
 
 
 
- <br/>
+<br/>
+
+  
   
 ## Github stats
 [![5onchangwoo's GitHub stats](https://github-readme-stats-5onchangwoo.vercel.app/api?username=5onchangwoo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
@@ -35,9 +37,10 @@
 
 <br/>
   
-## 📝 **Used Tool & Skill**
-[![Top Langs](https://github-readme-stats-5onchangwoo.vercel.app/api/top-langs/?username=5onchangwoo&%20Text%20Format&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+## 📝 **Used Tool & Skill**   
 
+[![Top Langs](https://github-readme-stats-5onchangwoo.vercel.app/api/top-langs/?username=5onchangwoo&%20Text%20Format&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+  
 ### Tool
 <img src="https://img.shields.io/badge/github-181717?style=round-square&logo=github&logoColor=white"> 
 <img src="https://img.shields.io/badge/notion-000000?style=round-square&logo=Notion&logoColor=white"> 
@@ -60,14 +63,12 @@ Database:
 Persistence API:
 <img src="https://img.shields.io/badge/mybatis-212121?style=round-square&logo=Mybatis&logoColor=white">
 <img src="https://img.shields.io/badge/JPA(Hibernate)-59666C?style=round-square&logo=Hibernate&logoColor=white">
-
-
   
 Language: 
 <img src="https://img.shields.io/badge/JAVA-007396?style=round-square&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=Python&logoColor=white"> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=round-square&logo=JavaScript&logoColor=white"> 
-
+  
 <br/>
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&descSize=100&section=footer" style="width:100%;">
