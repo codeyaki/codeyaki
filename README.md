@@ -29,7 +29,6 @@ Front-end:
   
 Back-end: 
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=round-square&logo=Spring Boot&logoColor=white"> 
-<img src="https://img.shields.io/badge/Node.js-339933?style=round-square&logo=Node.js&logoColor=white"> 
 
 Persistence API:
 <img src="https://img.shields.io/badge/mybatis-212121?style=round-square&logo=Mybatis&logoColor=white">
