@@ -54,7 +54,6 @@ Language:
 <br/>
   
 ### Algorithm Test
-  ### BeakJoon
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=son99)](https://solved.ac/son99/)
 
 
