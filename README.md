@@ -17,12 +17,6 @@
   
 ### 📝 **Used Tool & Skill**   
   
-#### Tool
-<img src="https://img.shields.io/badge/github-181717?style=round-square&logo=github&logoColor=white"> 
-<img src="https://img.shields.io/badge/notion-000000?style=round-square&logo=Notion&logoColor=white"> 
-<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=round-square&logo=IntelliJ IDEA&logoColor=white"> 
-<img src="https://img.shields.io/badge/Slack-4A154B?style=round-square&logo=Slack&logoColor=white"> 
-  
 #### Skill
 Front-end: 
 <img src="https://img.shields.io/badge/React-61DAFB?style=round-square&logo=React&logoColor=white"> 
@@ -43,6 +37,12 @@ Language:
 <img src="https://img.shields.io/badge/JAVA-007396?style=round-square&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=Python&logoColor=white"> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=round-square&logo=JavaScript&logoColor=white"> 
+
+#### Tool
+<img src="https://img.shields.io/badge/github-181717?style=round-square&logo=github&logoColor=white"> 
+<img src="https://img.shields.io/badge/notion-000000?style=round-square&logo=Notion&logoColor=white"> 
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=round-square&logo=IntelliJ IDEA&logoColor=white"> 
+<img src="https://img.shields.io/badge/Slack-4A154B?style=round-square&logo=Slack&logoColor=white"> 
 
 <br/>
 
