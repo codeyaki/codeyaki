@@ -17,25 +17,26 @@
 ### :hammer_and_wrench: **Used Tool & Skill**   
   
 #### Skill
-Front-end: 
-<img src="https://img.shields.io/badge/React-61DAFB?style=round-square&logo=React&logoColor=white"> <br/>
   
-Back-end: 
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=round-square&logo=Spring Boot&logoColor=white"> <br/>
-
-Persistence API:
-<img src="https://img.shields.io/badge/mybatis-212121?style=round-square&logo=Mybatis&logoColor=white">
-<img src="https://img.shields.io/badge/JPA(Hibernate)-59666C?style=round-square&logo=Hibernate&logoColor=white"> <br/>
+Language: 
+<img src="https://img.shields.io/badge/JAVA-007396?style=round-square&logo=java&logoColor=white"> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=Python&logoColor=white"> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=round-square&logo=JavaScript&logoColor=white"> <br/>
 
 Database: 
 <img src="https://img.shields.io/badge/oracle-F80000?style=round-square&logo=oracle&logoColor=white"> 
 <img src="https://img.shields.io/badge/mysql-4479A1?style=round-square&logo=mysql&logoColor=white"> 
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=round-square&logo=PostgreSQL&logoColor=white"> <br/>
   
-Language: 
-<img src="https://img.shields.io/badge/JAVA-007396?style=round-square&logo=java&logoColor=white"> 
-<img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=Python&logoColor=white"> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=round-square&logo=JavaScript&logoColor=white"> <br/>
+Persistence API:
+<img src="https://img.shields.io/badge/mybatis-212121?style=round-square&logo=Mybatis&logoColor=white">
+<img src="https://img.shields.io/badge/JPA(Hibernate)-59666C?style=round-square&logo=Hibernate&logoColor=white"> <br/>
+
+Back-end: 
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=round-square&logo=Spring Boot&logoColor=white"> <br/>
+
+Front-end: 
+<img src="https://img.shields.io/badge/React-61DAFB?style=round-square&logo=React&logoColor=white"> <br/>
 
 #### Tool
 <img src="https://img.shields.io/badge/github-181717?style=round-square&logo=github&logoColor=white"> 
