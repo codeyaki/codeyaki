@@ -1,6 +1,10 @@
-<div>
+<div align="center">
 
-## 꾸준함을 잃지 않으려고 노력합니다 :) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F5onchangwoo&count_bg=%2379C83D&title_bg=%23000000&icon=octopusdeploy.svg&icon_color=%2350B218&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20I'm%20Son&theme=tokyonight" style="width:100%;">
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F5onchangwoo&count_bg=%2379C83D&title_bg=%23000000&icon=octopusdeploy.svg&icon_color=%2350B218&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+꾸준함을 잃지 않으려고 노력합니다 :) 
 
 ### Contact Me
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=round-square&logo=Gmail&logoColor=white"/> <a>scw9410@gmail.com</a>  
@@ -8,33 +12,6 @@
 <img src="https://img.shields.io/badge/Tistory-000000?style=round-square&logo=Tistory&logoColor=white"/> <a href="https://teching.tistory.com">블로그 이동하기</a>  
 
 <br/>
-  
-## Repository
-  <p> 진행했던 프로젝트들의 레파지토리를 살펴보세요! </p>  
-  
-  | 기간 | 프로젝트 이름 | 설명 | 사용기술 | 레파지토리 |
-  | --- | --- | --- | --- | --- |
-  | 22.12 <br/>~ ing | UMI | 성격유형기반 커뮤니티 서비스 | react(성격검사 페이지), <br/>Spring Boot, JPA(Hibernate) | [바로가기](https://github.com/16ssss) |
-  | 22.10 <br/>~ 22.11 | RoomUS | 메타버스를 활용한 가상 인테리어 서비스 | Spring Boot, <br/>PostgreSQL, JPA(Hibernate),<br/> AWS Cloud | [바로가기](https://github.com/mtvs-6man/roomus-application-server) |
-  | 22.10 | My Little Tales | AI를 활용하여 자신만의 4컷 동화 제작 서비스 | Spring Boot, <br/>Oracle, Mybatis, <br/>Thymeleaf | [바로가기](https://github.com/MTVS-MyLittleTales/mlt-network) |
-  | 22.07 <br/>~ 22.10 | INIT | IT 인재들과 기업간 중개 서비스 | Spring Boot, <br/>Oracle, MyBatis, <br/>React | [바로가기](https://github.com/orgs/mtvsteampheonix/repositories) |
-<!--   | 22.12 <br/>~ ing | UMI | MBTI 기반 커뮤니티 서비스 | Spring Boot | [바로가기](https://github.com/16ssss) | -->
-
-
-
-<br/>
-
-  
-  
-## Github stats
-[![5onchangwoo's GitHub stats](https://github-readme-stats-5onchangwoo.vercel.app/api?username=5onchangwoo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=5onchangwoo&theme=java-dark&locale=ko&date_format=%5BY.%5Dn.j&background=45%2C4A12EB%2CEB5454&dates=EBEBEB&border=000000)](https://git.io/streak-stats)  
-  
-<br/>
-  
-## Algorithm Test
-  ### BeakJoon
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=son99)](https://solved.ac/son99/)
 
 <br/>
   
@@ -69,10 +46,23 @@ Language:
 <img src="https://img.shields.io/badge/JAVA-007396?style=round-square&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=Python&logoColor=white"> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=round-square&logo=JavaScript&logoColor=white"> 
+
+<br/>
+
+  
+## Github stats
+[![5onchangwoo's GitHub stats](https://github-readme-stats-5onchangwoo.vercel.app/api?username=5onchangwoo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=5onchangwoo&theme=java-dark&locale=ko&date_format=%5BY.%5Dn.j&background=45%2C4A12EB%2CEB5454&dates=EBEBEB&border=000000)](https://git.io/streak-stats)  
   
 <br/>
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&descSize=100&section=footer" style="width:100%;">
+## Algorithm Test
+  ### BeakJoon
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=son99)](https://solved.ac/son99/)
+
+
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=footer&theme=tokyonight" style="width:100%;">
 </div>
 
 
