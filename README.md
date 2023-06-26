@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20I'm%20Son&theme=tokyonight" style="width:100%;">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hello%20I'm%20Son" style="width:100%;">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F5onchangwoo&count_bg=%2379C83D&title_bg=%23000000&icon=octopusdeploy.svg&icon_color=%2350B218&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -16,8 +16,6 @@
 <br/>
   
 ## 📝 **Used Tool & Skill**   
-
-[![Top Langs](https://github-readme-stats-5onchangwoo.vercel.app/api/top-langs/?username=5onchangwoo&%20Text%20Format&theme=tokyonight&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
   
 ### Tool
 <img src="https://img.shields.io/badge/github-181717?style=round-square&logo=github&logoColor=white"> 
@@ -51,7 +49,6 @@ Language:
 
   
 ## Github stats
-[![5onchangwoo's GitHub stats](https://github-readme-stats-5onchangwoo.vercel.app/api?username=5onchangwoo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=5onchangwoo&theme=java-dark&locale=ko&date_format=%5BY.%5Dn.j&background=45%2C4A12EB%2CEB5454&dates=EBEBEB&border=000000)](https://git.io/streak-stats)  
   
 <br/>
@@ -62,7 +59,7 @@ Language:
 
 
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=footer&theme=tokyonight" style="width:100%;">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=footer" style="width:100%;">
 </div>
 
 
