@@ -30,15 +30,15 @@ Front-end:
 Back-end: 
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=round-square&logo=Spring Boot&logoColor=white"> 
 <img src="https://img.shields.io/badge/Node.js-339933?style=round-square&logo=Node.js&logoColor=white"> 
-  
-Database: 
-<img src="https://img.shields.io/badge/oracle-F80000?style=round-square&logo=oracle&logoColor=white"> 
-<img src="https://img.shields.io/badge/mysql-4479A1?style=round-square&logo=mysql&logoColor=white"> 
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=round-square&logo=PostgreSQL&logoColor=white"> 
 
 Persistence API:
 <img src="https://img.shields.io/badge/mybatis-212121?style=round-square&logo=Mybatis&logoColor=white">
 <img src="https://img.shields.io/badge/JPA(Hibernate)-59666C?style=round-square&logo=Hibernate&logoColor=white">
+
+Database: 
+<img src="https://img.shields.io/badge/oracle-F80000?style=round-square&logo=oracle&logoColor=white"> 
+<img src="https://img.shields.io/badge/mysql-4479A1?style=round-square&logo=mysql&logoColor=white"> 
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=round-square&logo=PostgreSQL&logoColor=white"> 
   
 Language: 
 <img src="https://img.shields.io/badge/JAVA-007396?style=round-square&logo=java&logoColor=white"> 
