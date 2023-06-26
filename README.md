@@ -7,23 +7,23 @@
 꾸준함을 잃지 않으려고 노력합니다 :) 
 
 ### Contact Me
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=round-square&logo=Gmail&logoColor=white"/> <a>scw9410@gmail.com</a>  
-<img src="https://img.shields.io/badge/Notion-000000?style=round-square&logo=Notion&logoColor=white"/> <a href="https://sonchangwoo.notion.site">노션 포트폴리오 페이지 이동하기 </a>  
-<img src="https://img.shields.io/badge/Tistory-000000?style=round-square&logo=Tistory&logoColor=white"/> <a href="https://teching.tistory.com">블로그 이동하기</a>  
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=round-square&logo=Gmail&logoColor=white"/> <a>scw9410@gmail.com</a> <br/>
+<img src="https://img.shields.io/badge/Tistory-000000?style=round-square&logo=Tistory&logoColor=white"/> <a>https://teching.tistory.com</a> <br/>
+<img src="https://img.shields.io/badge/Notion-000000?style=round-square&logo=Notion&logoColor=white"/> <a>https://sonchangwoo.notion.site</a> <br/>  
 
 <br/>
 
 <br/>
   
-## 📝 **Used Tool & Skill**   
+### 📝 **Used Tool & Skill**   
   
-### Tool
+#### Tool
 <img src="https://img.shields.io/badge/github-181717?style=round-square&logo=github&logoColor=white"> 
 <img src="https://img.shields.io/badge/notion-000000?style=round-square&logo=Notion&logoColor=white"> 
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=round-square&logo=IntelliJ IDEA&logoColor=white"> 
 <img src="https://img.shields.io/badge/Slack-4A154B?style=round-square&logo=Slack&logoColor=white"> 
   
-### Skill
+#### Skill
 Front-end: 
 <img src="https://img.shields.io/badge/React-61DAFB?style=round-square&logo=React&logoColor=white"> 
   
@@ -48,12 +48,12 @@ Language:
 <br/>
 
   
-## Github stats
+### Github stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=5onchangwoo&theme=java-dark&locale=ko&date_format=%5BY.%5Dn.j&background=45%2C4A12EB%2CEB5454&dates=EBEBEB&border=000000)](https://git.io/streak-stats)  
   
 <br/>
   
-## Algorithm Test
+### Algorithm Test
   ### BeakJoon
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=son99)](https://solved.ac/son99/)
 
