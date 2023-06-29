@@ -58,7 +58,7 @@ Front-end:
 
   
 ### :octocat: Github stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=5onchangwoo&theme=java-dark&locale=ko&date_format=%5BY.%5Dn.j&background=45%2C4A12EB%2CEB5454&dates=EBEBEB&border=000000)](https://git.io/streak-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=5onchangwoo&theme=java-dark&locale=en&date_format=%5BY.%5Dn.j&background=45%2C4A12EB%2CEB5454&dates=EBEBEB&border=000000)](https://git.io/streak-stats)  
   
 <br/>
 <br/>
