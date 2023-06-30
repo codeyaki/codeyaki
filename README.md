@@ -8,9 +8,11 @@
 
 ### **Contact Me**
   
-이메일 : <img src="https://img.shields.io/badge/Gmail-EA4335?style=round-square&logo=Gmail&logoColor=white"/> <a> scw9410@gmail.com </a> <br/>
-블로그 : <img src="https://img.shields.io/badge/Tistory-000000?style=round-square&logo=Tistory&logoColor=white"/> <a>https://teching.tistory.com</a> <br/>
-노션 이력서 : <img src="https://img.shields.io/badge/Notion-000000?style=round-square&logo=Notion&logoColor=white"/> <a>https://sonchangwoo.notion.site</a> <br/>  
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=round-square&logo=Gmail&logoColor=white"/> <a> scw9410@gmail.com </a> <br/>
+### Blog
+  <img src="https://img.shields.io/badge/Tistory-000000?style=round-square&logo=Tistory&logoColor=white"/> <a>https://teching.tistory.com</a> <br/>
+### Resume
+  <img src="https://img.shields.io/badge/Notion-000000?style=round-square&logo=Notion&logoColor=white"/> <a>https://sonchangwoo.notion.site</a> <br/>  
 
 <br/>
 <br/>
