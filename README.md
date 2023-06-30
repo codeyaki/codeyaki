@@ -6,12 +6,12 @@
 
 안녕하세요. 백엔드 개발자 손창우입니다. 꾸준함의 가치를 알기에 1일1커밋을 위해 노력합니다.
 
-### **Contact Me**
+#### **Contact Me**
   
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=round-square&logo=Gmail&logoColor=white"/> <a> scw9410@gmail.com </a> <br/>
-### Blog
+#### Blog
   <img src="https://img.shields.io/badge/Tistory-000000?style=round-square&logo=Tistory&logoColor=white"/> <a>https://teching.tistory.com</a> <br/>
-### Resume
+#### Resume
   <img src="https://img.shields.io/badge/Notion-000000?style=round-square&logo=Notion&logoColor=white"/> <a>https://sonchangwoo.notion.site</a> <br/>  
 
 <br/>
