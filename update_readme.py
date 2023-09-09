@@ -15,7 +15,7 @@ for idx, feed in enumerate(rss_feed['entries']):
     feed_date = feed['published_parsed']
     latest_blog_post_list += f"[{feed_date.tm_year}/{feed_date.tm_mon}/{feed_date.tm_mday} - {feed['title']}]({feed['link']}) <br>\n"
     
-markdown_text = """
+markdown_text = f"""
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hello%20I'm%20Son" style="width:100%;">
@@ -69,6 +69,9 @@ Front-end:
 <br/>
 <br/>
 
+### :metal: **Blog Post**
+{latest_blog_post_list}
+
   
 ### :memo: **Algorithm Test**
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=son99)](https://solved.ac/son99/)
@@ -92,7 +95,7 @@ Front-end:
 
 """
 
-readme_text = f"{markdown_text}{latest_blog_post_list}"
+readme_text = f"{markdown_text}"
 
 with open("README.md", 'w', encoding='utf-8') as f:
     f.write(readme_text)
