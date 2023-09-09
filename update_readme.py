@@ -75,6 +75,8 @@ Front-end:
 |---|---|
 {latest_blog_post_list}
 
+<br/>
+<br/>
   
 ### :memo: **Algorithm Test**
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=son99)](https://solved.ac/son99/)
