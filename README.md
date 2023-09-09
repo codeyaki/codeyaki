@@ -52,6 +52,19 @@ Front-end:
 <br/>
 <br/>
 
+### :metal: **Blog Post**
+[2023/9/8 - 엑셀 생성 기능 리팩토링하기](https://teching.tistory.com/183) <br>
+[2023/9/6 - 웹에서 사용자(클라이언트)의 로컬 프로그램 실행시키기](https://teching.tistory.com/182) <br>
+[2023/9/6 - enum 클래스 활용하기](https://teching.tistory.com/180) <br>
+[2023/9/6 - @Converter 사용해서 DB값 변환하기](https://teching.tistory.com/181) <br>
+[2023/8/5 - Querydsl 간단하게 알아보기](https://teching.tistory.com/179) <br>
+[2023/8/4 - AOP에 대해 알아보자](https://teching.tistory.com/178) <br>
+[2023/8/4 - Java 로깅 알아보기 2 - logback](https://teching.tistory.com/177) <br>
+[2023/8/4 - Java 로깅 알아보기 1 - Logging이란](https://teching.tistory.com/176) <br>
+[2023/8/4 - [JSP] jsp 태그 알아보기](https://teching.tistory.com/175) <br>
+[2023/8/4 - 코드리뷰 약어 살펴보기](https://teching.tistory.com/174) <br>
+
+
   
 ### :memo: **Algorithm Test**
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=son99)](https://solved.ac/son99/)
@@ -73,13 +86,3 @@ Front-end:
 </div>
 
 
-[2023/9/8 - 엑셀 생성 기능 리팩토링하기](https://teching.tistory.com/183) <br>
-[2023/9/6 - 웹에서 사용자(클라이언트)의 로컬 프로그램 실행시키기](https://teching.tistory.com/182) <br>
-[2023/9/6 - enum 클래스 활용하기](https://teching.tistory.com/180) <br>
-[2023/9/6 - @Converter 사용해서 DB값 변환하기](https://teching.tistory.com/181) <br>
-[2023/8/5 - Querydsl 간단하게 알아보기](https://teching.tistory.com/179) <br>
-[2023/8/4 - AOP에 대해 알아보자](https://teching.tistory.com/178) <br>
-[2023/8/4 - Java 로깅 알아보기 2 - logback](https://teching.tistory.com/177) <br>
-[2023/8/4 - Java 로깅 알아보기 1 - Logging이란](https://teching.tistory.com/176) <br>
-[2023/8/4 - [JSP] jsp 태그 알아보기](https://teching.tistory.com/175) <br>
-[2023/8/4 - 코드리뷰 약어 살펴보기](https://teching.tistory.com/174) <br>
