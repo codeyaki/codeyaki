@@ -37,4 +37,4 @@ jobs:
         git config --local user.email "scw9410@gmail.com"
         git config --local user.name "5onchangwoo"
         git commit -m "Update README.md"
-        git push --force 5onchangwoo main
+        git push
