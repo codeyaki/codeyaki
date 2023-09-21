@@ -56,7 +56,8 @@ Front-end:
 
 |날짜|제목|
 |---|---|
-|2023/9/15|[객체지향의 사실과 오해 1회독 간단 review](https://teching.tistory.com/184)|
+|2023/9/20|[세컨드 브레인 책 리뷰](https://teching.tistory.com/185)|
+|2023/9/15|[객체지향의 사실과 오해 책 리뷰](https://teching.tistory.com/184)|
 |2023/9/8|[엑셀 생성 기능 리팩토링하기](https://teching.tistory.com/183)|
 |2023/9/6|[웹에서 사용자(클라이언트)의 로컬 프로그램 실행시키기](https://teching.tistory.com/182)|
 |2023/9/6|[enum 클래스 활용하기](https://teching.tistory.com/180)|
@@ -65,7 +66,6 @@ Front-end:
 |2023/8/4|[AOP에 대해 알아보자](https://teching.tistory.com/178)|
 |2023/8/4|[Java 로깅 알아보기 2 - logback](https://teching.tistory.com/177)|
 |2023/8/4|[Java 로깅 알아보기 1 - Logging이란](https://teching.tistory.com/176)|
-|2023/8/4|[[JSP] jsp 태그 알아보기](https://teching.tistory.com/175)|
 
 
 <br/>
