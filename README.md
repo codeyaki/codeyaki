@@ -56,6 +56,7 @@ Front-end:
 
 |날짜|제목|
 |---|---|
+|2023/10/4|[도메인 주도 개발하기 책 리뷰](https://teching.tistory.com/186)|
 |2023/9/20|[세컨드 브레인 책 리뷰](https://teching.tistory.com/185)|
 |2023/9/15|[객체지향의 사실과 오해 책 리뷰](https://teching.tistory.com/184)|
 |2023/9/8|[엑셀 생성 기능 리팩토링하기](https://teching.tistory.com/183)|
@@ -65,7 +66,6 @@ Front-end:
 |2023/8/5|[Querydsl 간단하게 알아보기](https://teching.tistory.com/179)|
 |2023/8/4|[AOP에 대해 알아보자](https://teching.tistory.com/178)|
 |2023/8/4|[Java 로깅 알아보기 2 - logback](https://teching.tistory.com/177)|
-|2023/8/4|[Java 로깅 알아보기 1 - Logging이란](https://teching.tistory.com/176)|
 
 
 <br/>
