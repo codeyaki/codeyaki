@@ -54,6 +54,7 @@ Front-end:
 
 |날짜|제목|
 |---|---|
+|2023/11/20|[KISS, YAGNI, DRY - 소프트웨어 개발 3대 원칙](https://teching.tistory.com/188)|
 |2023/10/19|[[spring boot] 스프링 스케줄러 사용해보기](https://teching.tistory.com/187)|
 |2023/10/4|[도메인 주도 개발하기 책 리뷰](https://teching.tistory.com/186)|
 |2023/9/20|[세컨드 브레인 책 리뷰](https://teching.tistory.com/185)|
@@ -63,7 +64,6 @@ Front-end:
 |2023/9/6|[enum 클래스 활용하기](https://teching.tistory.com/180)|
 |2023/9/6|[@Converter 사용해서 DB값 변환하기](https://teching.tistory.com/181)|
 |2023/8/5|[Querydsl 간단하게 알아보기](https://teching.tistory.com/179)|
-|2023/8/4|[AOP에 대해 알아보자](https://teching.tistory.com/178)|
 
 
 <br/>
