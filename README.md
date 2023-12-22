@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hello%20I'm%20Son" style="width:100%;">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hello%20I'm%20codeyaki" style="width:100%;">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F5onchangwoo&count_bg=%2379C83D&title_bg=%23000000&icon=octopusdeploy.svg&icon_color=%2350B218&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
