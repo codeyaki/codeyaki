@@ -22,10 +22,7 @@ markdown_text = f"""
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F5onchangwoo&count_bg=%2379C83D&title_bg=%23000000&icon=octopusdeploy.svg&icon_color=%2350B218&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-안녕하세요.
-
-#### Blog
-  <img src="https://img.shields.io/badge/Tistory-000000?style=round-square&logo=Tistory&logoColor=white"/> <a>https://teching.tistory.com</a> <br/>
+hello. i like takoyaki!!
 
 <br/>
 <br/>
@@ -64,7 +61,10 @@ Front-end:
 <br/>
 <br/>
 
-### :metal: **Blog Post**
+### Blog
+  <img src="https://img.shields.io/badge/Tistory-000000?style=round-square&logo=Tistory&logoColor=white"/> <a>https://teching.tistory.com</a> <br/>
+
+#### :metal: **Blog Post**
 
 |날짜|제목|
 |---|---|
