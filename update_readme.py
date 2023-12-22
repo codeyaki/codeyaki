@@ -24,9 +24,6 @@ markdown_text = f"""
 
 안녕하세요.
 
-#### **Contact Me**
-  
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=round-square&logo=Gmail&logoColor=white"/> <a> scw9410@gmail.com </a> <br/>
 #### Blog
   <img src="https://img.shields.io/badge/Tistory-000000?style=round-square&logo=Tistory&logoColor=white"/> <a>https://teching.tistory.com</a> <br/>
 
