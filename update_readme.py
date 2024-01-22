@@ -84,6 +84,9 @@ Front-end:
 [![GitHub Streak](https://streak-stats.demolab.com?user=codeyaki&theme=java-dark&locale=en&date_format=%5BY.%5Dn.j&background=45%2C4A12EB%2CEB5454&dates=EBEBEB&border=000000)](https://git.io/streak-stats)  
   
 <br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=codeyaki&theme=darkhub)](https://github.com/codeyaki)
+
 <br/>
 
 
