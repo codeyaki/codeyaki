@@ -5,7 +5,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F5onchangwoo&count_bg=%2379C83D&title_bg=%23000000&icon=octopusdeploy.svg&icon_color=%2350B218&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-hello. i like takoyaki!!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=31F718&background=8986FF00&center=true&vCenter=true&multiline=true&random=false&width=435&height=100&lines=Hello;i'm+codeyaki)](https://git.io/typing-svg)
 
 <br/>
 <br/>
