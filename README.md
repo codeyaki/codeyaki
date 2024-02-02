@@ -53,6 +53,8 @@ Front-end:
 
 |날짜|제목|
 |---|---|
+|2024/2/1|[Adapter Pattern, 어댑터 패턴](https://teching.tistory.com/190)|
+|2024/2/1|[아는 만큼 보이는 데이터베이스 책 리뷰](https://teching.tistory.com/189)|
 |2023/11/20|[KISS, YAGNI, DRY - 소프트웨어 개발 3대 원칙](https://teching.tistory.com/188)|
 |2023/10/19|[[spring boot] 스프링 스케줄러 사용해보기](https://teching.tistory.com/187)|
 |2023/10/4|[도메인 주도 개발하기 책 리뷰](https://teching.tistory.com/186)|
@@ -61,8 +63,6 @@ Front-end:
 |2023/9/8|[엑셀 생성 기능 리팩토링하기](https://teching.tistory.com/183)|
 |2023/9/6|[웹에서 사용자(클라이언트)의 로컬 프로그램 실행시키기](https://teching.tistory.com/182)|
 |2023/9/6|[enum 클래스 활용하기](https://teching.tistory.com/180)|
-|2023/9/6|[@Converter 사용해서 DB값 변환하기](https://teching.tistory.com/181)|
-|2023/8/5|[Querydsl 간단하게 알아보기](https://teching.tistory.com/179)|
 
 
 <br/>
