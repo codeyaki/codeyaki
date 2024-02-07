@@ -53,6 +53,7 @@ Front-end:
 
 |날짜|제목|
 |---|---|
+|2024/2/6|[Decorator Pattern, 데코레이터 패턴](https://teching.tistory.com/193)|
 |2024/2/5|[Composite Pattern, 복합체 패턴](https://teching.tistory.com/192)|
 |2024/2/5|[Bridge Pattern, 브릿지 패턴](https://teching.tistory.com/191)|
 |2024/2/1|[Adapter Pattern, 어댑터 패턴](https://teching.tistory.com/190)|
@@ -62,7 +63,6 @@ Front-end:
 |2023/10/4|[도메인 주도 개발하기 책 리뷰](https://teching.tistory.com/186)|
 |2023/9/20|[세컨드 브레인 책 리뷰](https://teching.tistory.com/185)|
 |2023/9/15|[객체지향의 사실과 오해 책 리뷰](https://teching.tistory.com/184)|
-|2023/9/8|[엑셀 생성 기능 리팩토링하기](https://teching.tistory.com/183)|
 
 
 <br/>
