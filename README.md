@@ -53,6 +53,8 @@ Front-end:
 
 |날짜|제목|
 |---|---|
+|2024/2/27|[Command Pattern, 커맨드 패턴](https://teching.tistory.com/198)|
+|2024/2/27|[Chain of Responsibility Pattern, 책임 연쇄 패턴](https://teching.tistory.com/197)|
 |2024/2/15|[Proxy Pattern, 프록시 패턴](https://teching.tistory.com/196)|
 |2024/2/14|[Flyweight Pattern, 플라이웨이트 패턴](https://teching.tistory.com/195)|
 |2024/2/7|[Facade Pattern, 퍼사드 패턴](https://teching.tistory.com/194)|
@@ -61,8 +63,6 @@ Front-end:
 |2024/2/5|[Bridge Pattern, 브릿지 패턴](https://teching.tistory.com/191)|
 |2024/2/1|[Adapter Pattern, 어댑터 패턴](https://teching.tistory.com/190)|
 |2024/2/1|[아는 만큼 보이는 데이터베이스 책 리뷰](https://teching.tistory.com/189)|
-|2023/11/20|[KISS, YAGNI, DRY - 소프트웨어 개발 3대 원칙](https://teching.tistory.com/188)|
-|2023/10/19|[[spring boot] 스프링 스케줄러 사용해보기](https://teching.tistory.com/187)|
 
 
 <br/>
