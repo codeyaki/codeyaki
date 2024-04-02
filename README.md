@@ -53,6 +53,7 @@ Front-end:
 
 |날짜|제목|
 |---|---|
+|2024/4/1|[Observer Pattern, 옵저버 패턴](https://teching.tistory.com/203)|
 |2024/3/27|[Memento Pattern, 메멘토 패턴](https://teching.tistory.com/202)|
 |2024/3/7|[Mediator Pattern, 중재자 패턴](https://teching.tistory.com/201)|
 |2024/3/6|[[postgresql] data 디렉토리 변경](https://teching.tistory.com/200)|
@@ -62,7 +63,6 @@ Front-end:
 |2024/2/15|[Proxy Pattern, 프록시 패턴](https://teching.tistory.com/196)|
 |2024/2/14|[Flyweight Pattern, 플라이웨이트 패턴](https://teching.tistory.com/195)|
 |2024/2/7|[Facade Pattern, 퍼사드 패턴](https://teching.tistory.com/194)|
-|2024/2/6|[Decorator Pattern, 데코레이터 패턴](https://teching.tistory.com/193)|
 
 
 <br/>
