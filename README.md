@@ -53,6 +53,7 @@ Front-end:
 
 |날짜|제목|
 |---|---|
+|2024/6/6|[2024 팀네이버 신입 공채 지원 후기](https://teching.tistory.com/204)|
 |2024/3/6|[[postgresql] data 디렉토리 변경](https://teching.tistory.com/200)|
 |2024/2/1|[아는 만큼 보이는 데이터베이스 책 리뷰](https://teching.tistory.com/189)|
 |2023/11/20|[KISS, YAGNI, DRY - 소프트웨어 개발 3대 원칙](https://teching.tistory.com/188)|
@@ -62,7 +63,6 @@ Front-end:
 |2023/9/15|[객체지향의 사실과 오해 책 리뷰](https://teching.tistory.com/184)|
 |2023/9/8|[엑셀 생성 기능 리팩토링하기](https://teching.tistory.com/183)|
 |2023/9/6|[웹에서 사용자(클라이언트)의 로컬 프로그램 실행시키기](https://teching.tistory.com/182)|
-|2023/9/6|[enum 클래스 활용하기](https://teching.tistory.com/180)|
 
 
 <br/>
