@@ -53,6 +53,7 @@ Front-end:
 
 |날짜|제목|
 |---|---|
+|2024/10/17|[Strategy Pattern, 전략 패턴](https://teching.tistory.com/207)|
 |2024/9/11|[State Pattern, 상태 패턴](https://teching.tistory.com/206)|
 |2024/6/12|[[Jenkins] 젠킨스내에서 jdk버전 여러개 사용하기 / 변경하기](https://teching.tistory.com/205)|
 |2024/6/6|[2024 팀네이버 신입 공채 지원 후기](https://teching.tistory.com/204)|
@@ -62,7 +63,6 @@ Front-end:
 |2024/3/6|[[postgresql] data 디렉토리 변경](https://teching.tistory.com/200)|
 |2024/2/28|[Iterator Pattern, 반복자 패턴](https://teching.tistory.com/199)|
 |2024/2/27|[Command Pattern, 커맨드 패턴](https://teching.tistory.com/198)|
-|2024/2/27|[Chain of Responsibility Pattern, 책임 연쇄 패턴](https://teching.tistory.com/197)|
 
 
 <br/>
